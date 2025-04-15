@@ -7,6 +7,47 @@
 # BlueJ files
 *.ctxt
 
+# Package directories
+/target/
+/out/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+.idea/
+/*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Mac
+.DS_Store
+
+# Environment files (para tus credenciales, URI de Mongo, etc.)
+*.env
+application-*.properties
+
+# Node.js (si luego versionas también tus frontends aquí)
+/node_modules/
+
+# Spring Boot devtools restart cache
+.restart/
+
+# Temporary files
+*.tmp
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
