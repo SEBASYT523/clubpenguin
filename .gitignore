@@ -1,3 +1,6 @@
+# Ignorar configuración local con credenciales
+src/main/resources/application.properties
+
 # Compiled class file
 *.class
 
